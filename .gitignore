@@ -1,0 +1,6 @@
+# maven build files
+target
+
+# all hidden files except gitignore
+.*
+!.gitignore
