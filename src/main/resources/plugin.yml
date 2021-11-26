@@ -1,0 +1,6 @@
+name: Template
+main: com.blank.template.Core
+version: 0.1
+api-version: 1.17
+author: ?
+description: A template spigot plugin
